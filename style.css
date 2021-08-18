@@ -1,0 +1,184 @@
+#jumbotron_body1 {
+    background-image: url("bigstock-Business-Financial-Business-A.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0px;
+}
+#jumbotron_mainbody_2 {
+    position: relative;
+    top: -140px;
+    box-shadow: 10px 10px 20px gray;
+    padding: 45px;
+    border-radius: 12px;
+}
+
+.all_button>button {
+    font-size: larger;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    font-weight: bolder;
+    margin-bottom: 50px
+}
+
+.all_button>button:hover {
+    background-color: #5cc35c;
+    color: #ffff;
+    border-radius: 20px;
+}
+
+.carousel-item {
+    margin-bottom: 70px;
+}
+
+.carousel-indicators>li {
+    border-radius: 100%;
+    width: 12px;
+    height: 12px;
+    background-color: silver;
+}
+
+.carousel-indicators>button:active {
+    background-color: green;
+}
+
+.carousel-indicators>li:active {
+    background-color: green;
+}
+
+nav>div>a>h4 {
+    font-weight: bold;
+    font-size: 30px;
+    color: #013c74;
+}
+
+.collapse>ul>li>a {
+    text-decoration: none;
+    color: #013c74;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#portfolio_papination>li>a:hover {
+    color: #252525;
+    background-color: #5cc35c;
+}
+
+#portfolio_papination>li>a {
+    border: 2px solid #013c74;
+    font-weight: bold;
+}
+
+.nav>li>a:hover {
+    color: #5cc35c;
+}
+
+.Menu-Home-3>ul>li>a {
+    color: #ffff;
+}
+
+.btn-color1 {
+    background-color: #013c74;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.bg-1 {
+    background-color: #5cc35c;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-weight: bolder;
+}
+
+.bg-2 {
+    background-color: #013c74;
+    border-radius: 25px;
+    padding: 10px 27px;
+}
+
+.bg-3 {
+    background-color: #707070;
+}
+
+.header-card {
+    background-color: #5cc35c;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.9;
+}
+
+.header-card.Home-3 {
+    background-color: #79cb79;
+    width: 100%;
+    height: 50%;
+}
+
+#demo2 {
+    box-shadow: 5px 10px 5px gray;
+    height: 100%;
+}
+
+.bg-5 {
+    background-color: #5cc35c;
+}
+
+.bg-muted {
+    background-color: silver;
+}
+
+.bg-4 {
+    background-color: #013c74;
+}
+
+.text-color2 {
+    color: #013c74;
+}
+
+.text-color1 {
+    color: #5cc35c;
+}
+
+.card {
+    box-shadow: 10px 10px 5px silver;
+}
+
+.travel, .lawyer, .franchising, .finance, .building, .consulting {
+    margin-top: 100px;
+}
+
+.bg-6 {
+    background: #252525;
+}
+
+.nav_About {
+    box-shadow: 2px 2px 100px gray;
+}
+
+.bg-7 {
+    background-color: #ebebeb;
+}
+
+.archives_body>p:hover {
+    color: #5cc35c;
+}
+
+.tab_body>button {
+    color: #6c757d;
+}
+
+.tab_body>button:hover {
+    color: #ffff;
+    background-color: #5cc35c;
+}
+#play_video {
+    position: absolute;
+    right: 40%;
+    left: 40%;
+}
+#video_1 {
+    display: flex;
+    align-items: center;
+}
